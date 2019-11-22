@@ -1,0 +1,38 @@
+body{
+    background: linear-gradient(pink,gold,violet);
+}
+
+.menu{
+    text-align: right;    
+    font-size: 17px;
+    font-family: 'EB Garamond', serif;
+    color: white;
+}
+
+a{
+    margin: 3px;    
+    font-size: 17px;
+    font-family: 'EB Garamond', serif;
+    color: black !important;
+
+}
+
+.titulo{
+    font-size: 60pt;
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+}
+
+.subtítulo{
+    font-size: 40px;    
+    font-family: 'Amatic SC', cursive;    
+    color: black;
+    text-align: center;
+}
+
+.começo{
+    font-size: 19px;
+    font-family: 'Josefin Slab', serif;
+   
+}
+
